@@ -1,0 +1,79 @@
+baseurl = "https://bribeiro33.github.io/portfolio/"
+title = "Barbara Ribeiro"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+[pagination]
+pagerSize = 20
+
+[services]
+  [services.disqus]
+  shortname = ""   # leave empty or add if you want comments on blog posts
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+  author = "Barbara Ribeiro"
+  info = "Data Engineer & Data Scientist"
+  description = "Barbara Ribeiro's personal technical portfolio"
+  keywords = "data engineering, data science, SQL, Python, portfolio"
+  avatarurl = "images/headshot.jpg"   # TK
+
+  since = 2025
+
+  enableTwemoji = true
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/bribeiro33"
+
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa-brands fa-linkedin fa-2x"
+  weight = 2
+  url = "https://www.linkedin.com/in/barbara-dreyer/"
+
+[[params.social]]
+  name = "Email"
+  icon = "fa fa-envelope fa-2x"
+  weight = 3
+  url = "mailto:bdreyer.ribeiro@gmail.com"
+
+# Menu links
+[[menu.main]]
+  name = "Projects"
+  weight = 1
+  url  = "projects/"
+
+[[menu.main]]
+  name = "Experience"
+  weight = 2
+  url = "experience/"
+
+[[menu.main]]
+  name = "Skills"
+  weight = 3
+  url = "skills/"
+
+[[menu.main]]
+  name = "Resume"
+  weight = 4
+  url = "resume/"
+
+[[menu.main]]
+  name = "Contact"
+  weight = 5
+  url = "contact/"
