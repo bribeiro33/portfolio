@@ -8,7 +8,17 @@
   </url><url>
     <loc>http://localhost:1313/portfolio/categories/</loc>
   </url><url>
+    <loc>http://localhost:1313/portfolio/contact/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/experience/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/projects/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/resume/</loc>
+  </url><url>
     <loc>http://localhost:1313/portfolio/series/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/skills/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/</loc>
   </url>

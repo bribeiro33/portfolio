@@ -7,5 +7,26 @@
     <generator>Hugo</generator>
     <language>en</language>
     <atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/contact/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;📧 &lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:bdreyer.ribeiro@gmail.com&#34; &gt;bdreyer.ribeiro@gmail.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;💻 &lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&#34;https://github.com/bribeiro33&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/bribeiro33&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;🔗 &lt;strong&gt;LinkedIn:&lt;/strong&gt; &lt;a href=&#34;https://www.linkedin.com/in/barbara-dreyer/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.linkedin.com/in/barbara-dreyer/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;📱 &lt;strong&gt;Phone:&lt;/strong&gt; (914) 886-8511&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Experience</title>
+      <link>http://localhost:1313/portfolio/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/experience/</guid>
+      <description>&lt;h3 id=&#34;quick-tap-rugby-analytics--software-intern-ann-arbor-mi--mayaug-2024&#34;&gt;&#xA;  Quick Tap Rugby Analytics — Software Intern (Ann Arbor, MI) • May–Aug 2024&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#quick-tap-rugby-analytics--software-intern-ann-arbor-mi--mayaug-2024&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Crafted new queries with CTEs to Amazon RDS; prototyped via AWS Lambda.&lt;/li&gt;&#xA;&lt;li&gt;Built customizable key bindings with TypeScript to speed up tagging workflow.&lt;/li&gt;&#xA;&lt;li&gt;Directed QA: bug discovery, user-needs forecasting.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;boxwood-st-louis--landscaping-lead-st-louis-mo--janapr-2025&#34;&gt;&#xA;  Boxwood St. Louis — Landscaping Lead (St. Louis, MO) • Jan–Apr 2025&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#boxwood-st-louis--landscaping-lead-st-louis-mo--janapr-2025&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Led a team of 3 on installation projects; ensured deadlines &amp;amp; quality standards.&lt;/li&gt;&#xA;&lt;li&gt;Coordinated ongoing upkeep (pruning, mulching, maintenance).&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Skills</title>
+      <link>http://localhost:1313/portfolio/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/skills/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Programming Languages&lt;/strong&gt;&lt;br&gt;&#xA;Python, SQL, Java, Bash, JavaScript/TypeScript, R, C++, C#&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tools &amp;amp; Platforms&lt;/strong&gt;&lt;br&gt;&#xA;Postman, dbt, Docker, Firebase, MySQL Workbench, Jupyter, Make, JIRA, GitHub, Strapi, Bootstrap, Debezium&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Analytics/Visualization&lt;/strong&gt;&lt;br&gt;&#xA;pandas, matplotlib, scikit-learn, SQL queries, ERD design&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Languages&lt;/strong&gt;&lt;br&gt;&#xA;English (fluent), Portuguese (fluent), Latin (translational proficiency), Koine Greek (translational proficiency)&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

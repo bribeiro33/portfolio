@@ -7,19 +7,16 @@ defaultcontentlanguage = "en"
 [pagination]
 pagerSize = 20
 
-[services]
-  [services.disqus]
-  shortname = ""   # leave empty or add if you want comments on blog posts
 
 [markup.highlight]
 style = "github-dark"
 
 [params]
   author = "Barbara Ribeiro"
-  info = "Data Engineer & Data Scientist"
+  info = "Data Engineer"
   description = "Barbara Ribeiro's personal technical portfolio"
   keywords = "data engineering, data science, SQL, Python, portfolio"
-  avatarurl = "images/headshot.jpg"   # TK
+  avatarurl = "images/headshot.png"
 
   since = 2025
 
@@ -69,11 +66,6 @@ style = "github-dark"
   url = "skills/"
 
 [[menu.main]]
-  name = "Resume"
-  weight = 4
-  url = "resume/"
-
-[[menu.main]]
   name = "Contact"
-  weight = 5
+  weight = 4
   url = "contact/"
